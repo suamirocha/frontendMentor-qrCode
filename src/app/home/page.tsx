@@ -16,11 +16,6 @@ const Corpo = styled.div`
   align-items: center;
 `;
 
-const Titulo = styled.div`
-  color: purple;
-  font-size: 40px;
-  text-align: center;
-`
 const Header = styled.div`
   max-width: auto;
   max-heigt: 150px;
@@ -30,6 +25,11 @@ const Header = styled.div`
   justify-content: center;
   margin-bottom: 2em;
 `;
+const Titulo = styled.div`
+  color: purple;
+  font-size: 40px;
+  text-align: center;
+`
 
 const Section = styled.div`
   display: flex;
