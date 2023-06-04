@@ -1,4 +1,3 @@
-
 import StyledComponentsRegistry from '../../lib/registry'
 import { Poppins } from 'next/font/google'
 import GlobalStyle from '@/styles/Globals'

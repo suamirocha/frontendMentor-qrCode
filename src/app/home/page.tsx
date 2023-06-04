@@ -81,7 +81,7 @@ export default function Home ()  {
     <Corpo >
       <Header>
         <Titulo>
-          FrontEnd Mentor Challenge - QR CODE
+          FrontEnd Mentor - Challenges
         </Titulo>
       </Header>
       <Section>
